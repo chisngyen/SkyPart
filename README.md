@@ -84,6 +84,10 @@ Setup, data layout and commands: [docs/REPRODUCE.md](docs/REPRODUCE.md), [docs/D
 
 We thank the anonymous reviewers and the area chair for their constructive feedback, which improved this paper, and Realtime Robotics for discussions on real-world robot deployment that motivated the problem studied here. All experiments were run on the free GPU quota provided by Kaggle. This work received no external funding, and the authors declare no competing interests.
 
+## Contact
+
+Questions, bugs or results that differ from the paper: please [open an issue](https://github.com/chisngyen/SkyPart/issues) so others can see the answer, or email Chi-Nguyen Tran (23122044@student.hcmus.edu.vn).
+
 ## License
 
 This project is released under the [MIT License](LICENSE). The datasets and the DINOv2 weights are subject to their own licenses.
