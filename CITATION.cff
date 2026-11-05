@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Weather-Robust Cross-View Geo-Localization via Prototype-Based Semantic Part Discovery"
+type: software
+abstract: "SkyPart: a lightweight part-discovery head for weather-robust drone-to-satellite geo-localization."
+license: MIT
+repository-code: "https://github.com/chisngyen/SkyPart"
+authors:
+  - name: "Chi-Nguyen Tran"
+  - name: "Duy-Minh Dao-Sy"
+  - name: "Trung-Kiet Huynh"
+  - name: "Phu-Hoa Pham"
+  - name: "Phu-Quy Nguyen-Lam"
+  - name: "Long Tran-Thanh"
+preferred-citation:
+  type: conference-paper
+  title: "Weather-Robust Cross-View Geo-Localization via Prototype-Based Semantic Part Discovery"
+  authors:
+    - name: "Chi-Nguyen Tran"
+    - name: "Duy-Minh Dao-Sy"
+    - name: "Trung-Kiet Huynh"
+    - name: "Phu-Hoa Pham"
+    - name: "Phu-Quy Nguyen-Lam"
+    - name: "Long Tran-Thanh"
+  collection-title: "Advances in Neural Information Processing Systems (NeurIPS)"
+  year: 2026
+  url: "https://openreview.net/forum?id=wxPKGRCVh8"

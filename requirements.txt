@@ -1,0 +1,8 @@
+torch>=2.1
+torchvision>=0.16
+numpy>=1.24,<2
+pillow
+pyyaml
+tqdm
+imgaug>=0.4.0   # WeatherPrompt 10-condition corruption pipeline (data/weather.py)
+thop            # optional: GFLOPs report in print_model_complexity
